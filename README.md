@@ -1,1 +1,1 @@
-# Stock-prediction using linear regression , moving average , kNN algorithm , auto ARIMA and LSTM 
+# Stock-prediction using LSTM , linear regression , moving average , kNN algorithm , auto ARIMA.
