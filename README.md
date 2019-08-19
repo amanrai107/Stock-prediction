@@ -1,1 +1,1 @@
-# Stock-prediction using LSTM , linear regression , moving average , kNN algorithm , auto ARIMA.
+# Stock-prediction using LSTM , linear regression , moving average , kNN algorithm , auto ARIMA. I'll be using a dataset from Quandl (you can find historical data for various stocks here) and for this particular project, I have used the data for ‘Tata Global Beverages’
